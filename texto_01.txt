@@ -1,2 +1,3 @@
 Texto 01
 comitando na branch desenvolvimento
+merge rebase
